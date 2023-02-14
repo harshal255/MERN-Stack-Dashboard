@@ -33,7 +33,7 @@ export const Layout: React.FC<LayoutProps> = ({
             p: { xs: 1, md: 2, lg: 3 },
             flexGrow: 1,
             // background: (theme) => theme.palette.background.default,
-            background: 'e5e5e5',
+            background: '#e8e8e8',
           }}
         >
           {children}
